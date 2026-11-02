@@ -1,10 +1,12 @@
 # Final Pool - Implemented Tasks
 
-Final pool of implemented tasks from BenchTasksCollv3 (checked against tasks/examples requirements).
+Final pool of implemented tasks from BenchTasksCollv3 (checked against `tasks/examples` requirements).
+
+Relative path in the project: `tasks/finalpool/<task-name>/`
 
 Total implemented tasks: 79
 
-## Tasks
+## Implemented tasks
 
 - `activity-logger` — lueyang-dev (source: tasks/lueyang/activity-logger)
 - `alert-system` — yuzhen-dev (source: tasks/yuzhen/alert-system)
@@ -85,3 +87,10 @@ Total implemented tasks: 79
 - `video-trimmer` — haoze (source: tasks/haoze/video-trimmer)
 - `voice-processor` — lv (source: tasks/lv/voice-processor)
 - `web-crawler` — ruige (source: tasks/ruige/web-crawler)
+
+## Excluded (still implementing - not added to the final pool)
+
+- `audit-logger` — yuzhen-dev
+- `currency-converter` — junxian_dev
+- `insights-engine` — lv
+- `resource-monitor` — yuzhen-dev
